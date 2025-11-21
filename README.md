@@ -6,11 +6,7 @@
 <!-- ### Head Biography -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7712D&random=true&width=450&lines=%F0%9F%91%8B+Hello!+I'm+Wow+Rakibul+;%E2%9C%8D+Poet+%26+Creative+Author+;%F0%9F%92%BB+Web+Developer+%26+Frontend+Engineer;%E2%9E%95+UX%2FUI+%26+Visual+Product+Designer;%F0%9F%92%9E+Psychologist+%26+HCI+Specialist+;%F0%9F%8E%A8+Digital+Artist+(Painting+%E2%9D%A4+Drawing);%F0%9F%97%A3+Motivational+Speaker+;%F0%9F%92%BB+Web+Developer;%E2%9E%95+Frontend+Engineer+;HCI+%26+HCD+Specialist;+User+Interface+Designer+;+User+Experience+Designer+;%F0%9F%92%BB+Web+Developer+%26+Frontend+Engineer;%F0%9F%93%B7+Nature+%26+Product+Photographer;%F0%9F%93%BA+Content+Creator;%F0%9F%A7%A0+Innovator+%26+Entrepreneur)
 
-<a href=#><img src="contributions.svg"></a>
 
-![Kos-M's github stats](https://github-readme-stats.vercel.app/api?username=wowrakibul&show_icons=true&theme=gruvbox) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowrakibul&layout=compact&theme=gruvbox)]()
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wowrakibul&theme=dark)
 
 🏅 Badge Earned:
 
