@@ -14,8 +14,7 @@
 <img src="https://github.com/user-attachments/assets/70e33a71-6e7d-4193-99b5-71b02fda3d1b" alt="Badge" width="100" height="100"  style="margin-left: 20px;">
 
 ## Open to Take New Project
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wowrakibul02)
-[![Spotify](https://img.shields.io/badge/skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/wa8AMnzuHadS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulism)
 
 ---
 
