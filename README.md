@@ -21,7 +21,7 @@ Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design Sy
 ---
 
 #### 👨‍💻 Expertise With 
-![skills](https://skillicons.dev/icons?i=figma,swift,kotlin,java,laravel,xcode,html,css,js,py,ts,nodejs,md,git,vscode&theme=)
+![skills](https://skillicons.dev/icons?i=figma,swift,kotlin,java,laravel,x-code,html,css,js,py,ts,nodejs,md,git,vscode&theme=)
 
 ---
 
