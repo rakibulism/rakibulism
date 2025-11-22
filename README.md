@@ -15,7 +15,7 @@ Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design Sy
 
 ## Open to Take New Project
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulism)
-[![Cal.com](https://img.shields.io/badge/Cal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://cal.com/rakibulism)
+[![Cal.com](https://img.shields.io/badge/Cal-0077B5?style=for-the-badge&logo=cal&logoColor=white)](https://cal.com/rakibulism)
 
 ---
 ---
