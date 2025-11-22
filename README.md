@@ -29,24 +29,11 @@ Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design Sy
 ---
 
 #### Case Studies & UI Shots
-[![Spotify](https://img.shields.io/badge/dribbble-FEBBF3?style=for-the-badge&logo=dribbble&logoColor=black)](https://dribbble.com/wowrakibul)
-[![Spotify](https://img.shields.io/badge/behance-1877e1?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/wowrakibul)
-
+[![Dribbble](https://img.shields.io/badge/dribbble-FEBBF3?style=for-the-badge&logo=dribbble&logoColor=black)](https://dribbble.com/rakibulism)
+[![Behance](https://img.shields.io/badge/behance-1877e1?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/rakibulism)
 
 #### Follow Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wowrakibul)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wowrakibul)
-
-#### Open-Source Works
-[![Spotify](https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wowrakibul)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wowrakibul)
-[![Dev.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/wowrakibul)
-
-
-
-#### Hobbyist Photographer
-[![Spotify](https://img.shields.io/badge/pexels-0AA3A6?style=for-the-badge&logo=pexels&logoColor=white)](https://www.pexels.com/@wow-rakibul-97607642/)
-[![Spotify](https://img.shields.io/badge/unsplash-000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@wowrakibul)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rakibulism)
 
 #### Work Time Music Love 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zerwmknst6hgtma3w3aykqdnhm)
@@ -54,7 +41,5 @@ Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design Sy
 <div align="center">
   
 Made ❤ by [Wow Rakibul](https://x.com/wowrakibul) 
-
-
 
 ![gif](https://media1.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e47g9f955m6qcmqp7m6zg2p0rmqi0daom1xc2ab0o2z&ep=v1_gifs_search&rid=200w.webp&ct=g)
