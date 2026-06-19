@@ -1,5 +1,5 @@
 <div align="center">
-  <div>Co-Founder <a href="https://panze.co">@Panze LLC</a> - UX Design Agency.</div>
+  <div>Product Experience Designer for AI & SaaS, B2B, Fintech companies. Co-Founder <a href="https://panze.co">@Panze LLC</a> - AI/UX Studio.</div>
   
   <br/>
 
